@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddhartha1999
+- 👋 Hi, I’m @Siddhartha-Dhar
 - 👀 I’m interested in Core algorithm Designing, AI, ML
 - 🌱 I’m currently learning HTML, CSS and Java Script
 - 📫 You Can reach me via 'siddharthadhar1999@gmail.com'
