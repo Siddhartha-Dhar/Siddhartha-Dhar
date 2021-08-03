@@ -1,3 +1,4 @@
+<img src="https://github.com/Siddhartha-Dhar/Siddhartha-Dhar/blob/main/Resource_Logo/Cover.gif" alt="Header_gif"></img>
 
 ## Hi there, I'm Siddhartha Dhar :wave:
 - Hi, I am a Open Source Software developer from India.
