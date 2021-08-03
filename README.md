@@ -22,9 +22,6 @@ Contact Me
 <img src="Resource_Logo/discord.png" height="35" width="auto" alt="Discord"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.com/users/791689205264547860" target="_blank">
-<img src="Resource_Logo/discord.png" height="35" width="auto" alt="Discord"></img></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!---
 Siddhartha1999/Siddhartha1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
