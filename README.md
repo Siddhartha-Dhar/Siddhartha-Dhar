@@ -7,7 +7,7 @@
 - The Field of Interests of mine are Algorithm development, Data Structure, Web development etc.
 - I am currently tutoring myself javaScript, React.js and css
 - Always open to discuss idea and work on awesome projects.
-- My hobby includes Reading, Cycling, Traveling, making friends and explore new thing :v:
+- My hobby includes Reading, Cycling, Traveling, Listening music, making friends and explore new things :v:
 
 ## Reach Me
 
