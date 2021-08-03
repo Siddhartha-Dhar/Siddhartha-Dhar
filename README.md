@@ -1,4 +1,13 @@
 
+## Hi there, I'm Siddhartha Dhar :wave:
+- Hi, I am a Open Source Software developer from India.
+- Im currently doing B.Tech in Computer Science & Engineering from University of Calcutta.
+- I have done my B.Sc in computer Science Honurs from University of Calcutta on 2020
+- The Field of Interests of mine are Algorithm development, Data Structure, Web development etc.
+- I am currently tutoring myself javaScript, React.js and css
+- Always open to discuss idea and work on awesome projects.
+- My hobby includes Reading, Cycling, Traveling, making friends and explore new thing :v:
+
 ## Reach Me
 
 <a href="https://www.linkedin.com/in/siddcode99/" target="_blank">
@@ -29,10 +38,10 @@
 <img src="Resource_Logo/whatsapp.png" height="35" width="auto" alt="Whatsapp"></img></a>
 
 ## Language Stat
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Dhar&layout=compact&theme=bear)](https://github.com/Siddhartha-Dhar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Dhar&layout=compact&theme=radical)](https://github.com/Siddhartha-Dhar/github-readme-stats)
 
 ## My Github Stat
-![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhartha-Dhar&theme=bear)
+![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhartha-Dhar&theme=radical)
 
 <!---
 Siddhartha1999/Siddhartha1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
