@@ -29,6 +29,8 @@ Contact Me
 <img src="Resource_Logo/mail-inbox-app.png" height="35" width="auto" alt="Email"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://wa.me/+919836257946" target="_blank">
+<img src="Resource_Logo/whatsapp.png" height="35" width="auto" alt="Whatsapp"></img></a>
 
 <!---
 Siddhartha1999/Siddhartha1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
