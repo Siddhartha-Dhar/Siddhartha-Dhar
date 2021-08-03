@@ -6,12 +6,16 @@
 
 Contact Me
 
-<a href="https://www.linkedin.com/in/siddcode99/">
-<img src="Resource_Logo/linkedin.png", height=35, width=auto, alt="Linked_In"></img></a>
+<a href="https://www.linkedin.com/in/siddcode99/" target="_blank">
+<img src="Resource_Logo/linkedin.png", height="35" width="auto" alt="Linked_In"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/siddcode99/">
-<img src="Resource_Logo/facebook.png", height=35, width=auto, alt="Linked_In"></img></a>
+<a href="https://www.facebook.com/siddhartha.dhar.754/" target="_blank">
+<img src="Resource_Logo/facebook.png" height="35" width="auto" alt="Facebook"></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/sidd21thebuddha" target="_blank">
+<img src="Resource_Logo/twitter.png" height="35" width="auto" alt="Twitter"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
