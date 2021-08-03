@@ -7,9 +7,8 @@
 Contact Me
 
 <a href="https://www.linkedin.com/in/siddcode99/">
-<img src="Linked_In_Logo.png">
-</img>
-</a>
+<img src="Resource_Logo/linkedin.png", height=35, width=auto></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 - 
 <!---
 Siddhartha1999/Siddhartha1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
