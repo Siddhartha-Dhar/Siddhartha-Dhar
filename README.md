@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Siddhartha-Dhar
-- 👀 I’m interested in Core algorithm Designing, AI, ML
-- 🌱 I’m currently learning HTML, CSS and Java Script
-- 📫 You Can reach me via 'siddharthadhar1999@gmail.com'
-- Chek me in Linked in ===> 'https://www.linkedin.com/in/siddcode99'
+👋 Hi, I’m @Siddhartha-Dhar
+👀 I’m interested in Core algorithm Designing, AI, ML
+🌱 I’m currently learning HTML, CSS and Java Script
+📫 You Can reach me via 'siddharthadhar1999@gmail.com'
 
 Contact Me
 
@@ -20,6 +19,10 @@ Contact Me
 
 <a href="https://discord.com/users/791689205264547860" target="_blank">
 <img src="Resource_Logo/discord.png" height="35" width="auto" alt="Discord"></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/siddhartha.dhar/" target="_blank">
+<img src="Resource_Logo/instagram.png" height="35" width="auto" alt="Instagram"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
