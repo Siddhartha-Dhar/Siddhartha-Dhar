@@ -25,6 +25,10 @@ Contact Me
 <img src="Resource_Logo/instagram.png" height="35" width="auto" alt="Instagram"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="siddharthadhar1999@gmail.com" target="_blank">
+<img src="Resource_Logo/mail-inbox-app.png" height="35" width="auto" alt="Email"></img></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!---
 Siddhartha1999/Siddhartha1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
