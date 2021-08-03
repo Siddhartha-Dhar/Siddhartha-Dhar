@@ -3,7 +3,7 @@
 🌱 I’m currently learning HTML, CSS and Java Script
 📫 You Can reach me via 'siddharthadhar1999@gmail.com'
 
-Contact Me
+## Reach Me
 
 <a href="https://www.linkedin.com/in/siddcode99/" target="_blank">
 <img src="Resource_Logo/linkedin.png", height="35" width="auto" alt="Linked_In"></img></a>
@@ -26,7 +26,7 @@ Contact Me
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:siddharthadhar1999@gmail.com" target="_blank">
-<img src="Resource_Logo/mail-inbox-app.png" height="35" width="auto" alt="Email"></img></a>
+<img src="Resource_Logo/mail.png" height="35" width="auto" alt="Email"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/+919836257946" target="_blank">
