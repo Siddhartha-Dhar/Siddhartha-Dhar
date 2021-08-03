@@ -1,6 +1,6 @@
-<img src="https://github.com/Siddhartha-Dhar/Siddhartha-Dhar/blob/main/Resource_Logo/Cover.gif" alt="Header_gif"></img>
+<img src="Resource_Logo/Cover.gif" alt="Header_gif"></img>
 
-## Hi there, I'm Siddhartha Dhar :wave:
+## Hi there, I'm Siddhartha Dhar <img src="Resource_Logo/wave_hand.gif" height=30 width=auto></img>
 - Hi, I am a Open Source Software developer from India.
 - Im currently doing B.Tech in Computer Science & Engineering from University of Calcutta.
 - I have done my B.Sc in computer Science Honurs from University of Calcutta on 2020
