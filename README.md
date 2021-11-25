@@ -27,7 +27,7 @@
 <img src="Resource_Logo/discord.png" height="35" width="auto" alt="Discord"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/siddhartha.dhar/" target="_blank">
+<a href="https://www.instagram.com/s_i_d_d_h_a_r_t_h_a_d_h_a_r/" target="_blank">
 <img src="Resource_Logo/instagram.png" height="35" width="auto" alt="Instagram"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
